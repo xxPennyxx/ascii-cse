@@ -1,4 +1,4 @@
 # CSE: A Survival Guide 2022
 
 ## Everything about gitHub right at your fingertips. Go ahead and Git started!
-What even?
+I'm being told to do this.
